@@ -1,0 +1,43 @@
+.searchBar {
+  display: flex;
+  padding: 25px 100px;
+  justify-content: space-between;
+  border: 1px solid #5c2018;
+}
+
+.inputSearch {
+  width: 63rem;
+  height: 40px;
+  border: 1px solid #5c2018;
+  padding: 0 10px;
+  font-size: 16px;
+  outline: none;
+  box-sizing: border-box;
+  color: #5c2018;
+}
+
+.inputSearch:focus {
+  border-color: #bc4639;
+}
+
+.formSearch {
+  max-width: 63rem;
+}
+
+.iconSearch {
+  padding: 12px;
+  min-width: 57rem;
+  color: #5c2018;
+  position: absolute;
+}
+
+.linkStyle {
+  text-decoration: none;
+}
+
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  box-sizing: border-box;
+  gap: 0 70px;
+}

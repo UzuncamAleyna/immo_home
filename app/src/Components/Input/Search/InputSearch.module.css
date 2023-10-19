@@ -1,0 +1,25 @@
+.inputSearch {
+  width: 300px;
+  height: 40px;
+  border: 1px solid #5c2018;
+  padding: 0 10px;
+  font-size: 16px;
+  outline: none;
+  box-sizing: border-box;
+  color: #5c2018;
+}
+
+.inputSearch:focus {
+  border-color: #bc4639;
+}
+
+.formSearch {
+  max-width: 300px;
+}
+
+.iconSearch {
+  padding: 10px;
+  min-width: 230px;
+  color: #5c2018;
+  position: absolute;
+}

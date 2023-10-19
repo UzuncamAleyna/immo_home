@@ -1,0 +1,13 @@
+.homeTitle {
+  color: #5c2018;
+  margin: 0;
+}
+
+.titleBox {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  justify-content: space-between;
+  margin-top: 20px;
+  padding: 0 40px;
+}

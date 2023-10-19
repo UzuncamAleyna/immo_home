@@ -1,0 +1,14 @@
+.dropdown {
+  width: 150px;
+  height: 40px;
+  border: 1px solid #5c2018;
+  padding: 0 10px;
+  font-size: 16px;
+  outline: none;
+  box-sizing: border-box;
+  color: #5c2018;
+}
+
+.dropdown:focus {
+  border-color: #bc4639;
+}

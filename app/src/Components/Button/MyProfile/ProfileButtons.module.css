@@ -1,0 +1,33 @@
+.btn {
+  width: 600px;
+  height: 50px;
+  border: 1px solid #5c2018;
+  font-size: 16px;
+  outline: none;
+  box-sizing: border-box;
+  color: #5c2018;
+  text-align: left;
+  padding-left: 30px;
+  font-weight: 600;
+  background-color: white;
+}
+
+.icon {
+  padding: 15px;
+  min-width: 1100px;
+  color: #5c2018;
+  position: absolute;
+  font-size: 140%;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.btnBox {
+  display: block;
+  margin-bottom: 3%;
+  cursor: pointer;
+}

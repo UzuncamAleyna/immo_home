@@ -1,0 +1,158 @@
+/* Images */
+.images {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.image {
+  width: 250px;
+  height: 220px;
+  object-fit: cover;
+}
+
+.divAbove {
+  display: flex;
+  justify-content: space-between;
+}
+
+.divSmall {
+  display: flex;
+  gap: 50px;
+}
+
+.imageBig {
+  width: 850px;
+  height: 400px;
+  box-sizing: border-box;
+}
+
+/* Container */
+.containerBox {
+  margin: 50px 30px;
+}
+
+/* Practial Information Card */
+.card {
+  width: 500px;
+  height: 640px;
+  background-color: white;
+  box-shadow: 0px 15px 35px rgb(205, 205, 205);
+  box-sizing: border-box;
+}
+
+/* For sale and price */
+.divTitle {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 20px;
+}
+
+.titleHead {
+  font-size: 25px;
+  color: #5c2018;
+  margin: 10px 0;
+}
+
+/*  Practical Information */
+.divCenter {
+  display: block;
+  margin: 40px 0;
+}
+
+.titleCenter {
+  font-size: 20px;
+  color: #5c2018;
+  margin-bottom: 30px;
+}
+
+.titleCenterBold {
+  font-size: 20px;
+  color: #5c2018;
+  font-weight: 600;
+}
+
+/* Practical Information Icons */
+.titleCenterBig {
+  font-size: 25px;
+  color: #5c2018;
+  font-weight: 600;
+  margin-bottom: 40px;
+}
+
+.divIcons {
+  display: block;
+  color: #5c2018;
+  font-size: 18px;
+  text-align: left;
+  padding-left: 20px;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  margin-bottom: 30px;
+}
+
+/* Arrow */
+.arrow {
+  text-decoration: none;
+  color: #5c2018;
+  font-size: 1.5rem;
+  font-weight: 700;
+  float: left;
+  margin-left: 1.5%;
+  margin-top: 1%;
+}
+
+.arrow:hover {
+  color: #bc4639;
+}
+
+/* Description and Contact */
+.divUnder {
+  display: flex;
+  justify-content: space-between;
+}
+
+/* Description */
+.description {
+  font-size: 18px;
+  color: #5c2018;
+  margin: 50px 0;
+  padding: 0.5rem 2rem;
+  text-align: justify;
+  width: 850px;
+  height: 700px;
+  background-color: white;
+  box-shadow: 0px 15px 35px rgb(205, 205, 205);
+  box-sizing: border-box;
+  overflow: auto;
+}
+
+/* Contact Us */
+
+.contact {
+  font-size: 18px;
+  color: #5c2018;
+  margin: 50px 0;
+  padding: 0.5rem 2rem;
+  width: 500px;
+  height: 700px;
+  background-color: #f3e0dc;
+  box-shadow: 0px 15px 35px rgb(205, 205, 205);
+  box-sizing: border-box;
+}
+
+.textarea {
+  width: 440px;
+  height: 140px;
+  border: 1px solid #5c2018;
+  padding: 5px 5px;
+  font-size: 16px;
+  outline: none;
+  box-sizing: border-box;
+  margin-bottom: 20px;
+  color: #5c2018;
+}
+
+.textarea:focus {
+  border-color: #bc4639;
+}

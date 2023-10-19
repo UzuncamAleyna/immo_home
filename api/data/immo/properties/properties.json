@@ -1,0 +1,150 @@
+[{
+  "_id": {
+    "$oid": "64760842a252e731381c7b89"
+  },
+  "id": 1,
+  "zip": 9000,
+  "city": "Gent",
+  "type": "House",
+  "price": 500000,
+  "street": "Citroenstraat 30",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "toilets": 2,
+  "description": "Welcome to this elegant family home located in the desirable city of Gent. With its stylish architecture and impeccable design, this property offers the perfect blend of luxury and functionality. The spacious living areas are bathed in natural light, creating an inviting and airy ambiance. The modern kitchen is a chef's dream, equipped with high-end appliances and ample counter space. The house features multiple bedrooms, including a luxurious master suite with a private en-suite bathroom. Outside, you'll find a beautifully landscaped garden and a charming patio, perfect for outdoor gatherings. Additional highlights include a garage for convenient parking and ample storage throughout. Situated in a peaceful neighborhood, yet close to amenities, schools, and transportation, this house is a true gem in Gent. Don't miss your chance to make it your dream home.",
+  "state": "For sale",
+  "images": [
+    "../images/house1-1.png",
+    "../images/house1-2.png",
+    "../images/house1-3.png"
+  ],
+  "landArea": 531,
+  "livingSpace": 200,
+  "cover": "../images/house1.png",
+  "office_id": 1
+},
+{
+  "_id": {
+    "$oid": "64760842a252e731381c7b8a"
+  },
+  "id": 2,
+  "zip": 9080,
+  "city": "Lochristi",
+  "type": "House",
+  "price": 380000,
+  "street": "Peerstraat 15",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "toilets": 1,
+  "description": "Discover this stunning family home situated in the desirable town of Lochristi. With its modern architecture and exquisite design, this property is sure to captivate you from the moment you step inside. The spacious open floor plan provides an abundance of natural light and a seamless flow between the living areas. The kitchen is a chef's delight, boasting high-end appliances, sleek countertops, and ample storage space. The house offers four generously sized bedrooms, including a luxurious master suite with a private bathroom. The beautifully landscaped backyard with a patio is perfect for outdoor entertaining and relaxation. Additional features include a garage, perfect for parking and storage, and a well-maintained garden. Located in a tranquil neighborhood, yet close to schools, shops, and amenities, this house in Lochristi is a true gem waiting for you to call it home. Don't miss out on this incredible opportunity.",
+  "state": "For sale",
+  "office_id": 2,
+  "images": [
+    "../images/house2-1.png",
+    "../images/house2-2.png",
+    "../images/house2-3.png"
+  ],
+  "landArea": 328,
+  "livingSpace": 150,
+  "cover": "../images/house2.png"
+},
+{
+  "_id": {
+    "$oid": "64760842a252e731381c7b8b"
+  },
+  "id": 3,
+  "zip": 9030,
+  "city": "Mariakerke",
+  "type": "House",
+  "price": 670900,
+  "street": "Appelstraat 27",
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "toilets": 2,
+  "description": "Welcome to this stylish and contemporary home located in the sought-after neighborhood of Mariakerke. This exceptional property offers a perfect balance of modern design and comfortable living. The open-concept layout creates a spacious and inviting atmosphere, perfect for entertaining guests. The gourmet kitchen features sleek countertops, high-end appliances, and ample storage space. The house boasts four well-appointed bedrooms, including a master suite with a luxurious en-suite bathroom. Enjoy the beautifully landscaped backyard, complete with a patio area for outdoor gatherings and relaxation. Additional highlights include a garage for convenient parking and storage. Situated in a quiet and family-friendly area, yet close to shops, schools, and transportation, this house in Mariakerke presents an incredible opportunity to own a contemporary home in a desirable location. Don't miss out on making this your dream home.",
+  "state": "For sale",
+  "office_id": 3,
+  "images": [
+    "../images/house3-1.png",
+    "../images/house3-2.png",
+    "../images/house3-3.png"
+  ],
+  "landArea": 620,
+  "livingSpace": 340,
+  "cover": "../images/house3.png"
+},
+{
+  "_id": {
+    "$oid": "64760842a252e731381c7b8c"
+  },
+  "id": 4,
+  "zip": 9230,
+  "city": "Wetteren",
+  "type": "Apartment",
+  "price": 230000,
+  "street": "Banaanstraat 7B",
+  "land-area": 150,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "toilets": 1,
+  "description": "Welcome to this modern and stylish apartment situated in the desirable town of Wetteren. This beautifully designed property offers a contemporary living experience with its sleek finishes and thoughtful layout. The open-concept living area is filled with natural light, creating a bright and inviting atmosphere. The kitchen features high-end appliances, ample storage space, and a sleek countertop. The apartment boasts two well-appointed bedrooms, offering comfortable and private spaces. The bathroom is elegantly designed, with modern fixtures and a luxurious feel. Additional highlights include a balcony or terrace, perfect for outdoor relaxation. Conveniently located near amenities, shops, and transportation, this apartment in Wetteren provides a convenient and comfortable lifestyle. Don't miss the opportunity to own this exceptional property in a sought-after location.",
+  "state": "For sale",
+  "office_id": 4,
+  "images": [
+    "../images/apartment1-1.png",
+    "../images/apartment1-2.png",
+    "../images/apartment1-3.png"
+  ],
+  "livingSpace": 110,
+  "cover": "../images/apartment1.png"
+},
+{
+  "_id": {
+    "$oid": "64760842a252e731381c7b8d"
+  },
+  "id": 5,
+  "zip": 9620,
+  "city": "Lochristi",
+  "type": "Room",
+  "price": 800,
+  "street": "Aardbeistraat 24",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "toilets": 1,
+  "description": "Discover this cozy room available for rent in the charming town of Zottegem. Ideal for individuals seeking a comfortable and affordable living space, this room offers a tranquil retreat. The room is tastefully furnished and features ample storage space and a comfortable bed. Natural light fills the room, creating a pleasant ambiance. The shared areas include a well-equipped kitchen, a spacious living room, and a clean bathroom. High-speed internet and utilities are included in the rent. The location is conveniently close to shops, restaurants, and public transportation, making it easy to navigate the town. Don't miss out on this fantastic opportunity to rent a comfortable room in Zottegem and enjoy a cozy living experience.",
+  "state": "For rent",
+  "office_id": 5,
+  "images": [
+    "../images/room1-1.png",
+    "../images/room1-2.png",
+    "../images/room1-3.png"
+  ],
+  "landArea": 180,
+  "livingSpace": 90,
+  "cover": "../images/room1.png"
+},
+{
+  "_id": {
+    "$oid": "64760842a252e731381c7b8e"
+  },
+  "id": 6,
+  "zip": 9308,
+  "city": "Aalst",
+  "type": "House",
+  "price": 490500,
+  "street": "Ananasstraat 30",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "toilets": 2,
+  "description": "Step into this charming house located in the vibrant city of Aalst. With its characterful design and inviting atmosphere, this property offers a delightful living experience. The interior boasts a harmonious blend of classic and contemporary elements, creating a unique and captivating ambiance. The spacious living areas provide ample room for relaxation and entertainment. The kitchen is equipped with modern appliances and offers a cozy dining area. The house features three comfortable bedrooms, perfect for accommodating a family or guests. Outside, a private garden or patio provides a tranquil retreat for outdoor activities and relaxation. Conveniently situated near amenities, schools, and transportation, this house in Aalst offers a perfect combination of convenience and charm. Don't miss the opportunity to make this wonderful property your new home.",
+  "state": "For sale",
+  "office_id": 6,
+  "images": [
+    "../images/house4-1.png",
+    "../images/house4-2.png",
+    "../images/house4-3.png"
+  ],
+  "landArea": 510,
+  "livingSpace": 340,
+  "cover": "../images/house4.png"
+}]

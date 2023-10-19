@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "64794475e8562431074d2dce"
+  },
+  "surname": "Aleyna",
+  "name": "Uzuncam",
+  "email": "aleyna-uzuncam@hotmail.be",
+  "phonenumber": "0489900447",
+  "message": "Hi, I want this property",
+  "user_id": "647662c84994a21f45bd362e"
+},
+{
+  "_id": {
+    "$oid": "6479ca81e6f365b3f25c6e56"
+  },
+  "surname": "ruveyda",
+  "name": "kartal",
+  "email": "ruveyda.kartal@hotmail.com",
+  "phonenumber": "0489652697",
+  "message": "I'm broke.",
+  "user_id": "6474edf451cb09a9f4a36f1d"
+},
+{
+  "_id": {
+    "$oid": "6479ce468770a0d25ef89237"
+  },
+  "surname": "scheve",
+  "name": "banaan",
+  "email": "banaan@krom.com",
+  "phonenumber": "78544678",
+  "message": "Ik ben krom",
+  "user_id": "6474edf451cb09a9f4a36f1d"
+}]

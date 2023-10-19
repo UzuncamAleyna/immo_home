@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "64763ab2a252e731381c7b90"
+  },
+  "id": 1,
+  "name": "Immo Artevelde",
+  "email": "Immo-artevelde@immo.com",
+  "telephone": "09 554 62 11",
+  "image": "../images/immo-artevelde.png"
+},
+{
+  "_id": {
+    "$oid": "64763ab2a252e731381c7b91"
+  },
+  "id": 2,
+  "name": "Immo-Home",
+  "email": "Immo-home@immo.com",
+  "telephone": "09 432 18 96",
+  "image": "../images/immo-home.png"
+},
+{
+  "_id": {
+    "$oid": "64763ab2a252e731381c7b92"
+  },
+  "id": 3,
+  "name": "Lo-immo",
+  "email": "Lo-immo@immo.com",
+  "telephone": "09 224 12 77",
+  "image": "../images/lo-immo.png"
+},
+{
+  "_id": {
+    "$oid": "64763ab2a252e731381c7b93"
+  },
+  "id": 4,
+  "name": "Vastgoed De Vos",
+  "email": "De-vos@immo.com",
+  "telephone": "09 662 23 84",
+  "image": "../images/vastgoed-vos.png"
+},
+{
+  "_id": {
+    "$oid": "64763ab2a252e731381c7b94"
+  },
+  "id": 5,
+  "name": "Immo Place",
+  "email": "Immo-place@immo.com",
+  "telephone": "09 658 99 03",
+  "image": "../images/immo-place.png"
+},
+{
+  "_id": {
+    "$oid": "64763ab2a252e731381c7b95"
+  },
+  "id": 6,
+  "name": "Immo-X",
+  "email": "Immo-x@immo.com",
+  "telephone": "09 542 75 22",
+  "image": "../images/immo-x.png"
+}]

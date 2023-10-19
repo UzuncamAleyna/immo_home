@@ -1,0 +1,19 @@
+.immoContainer {
+  background-color: #5c2018;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-position-y: 25%;
+  background-image: url("../../../public/images/background.png");
+}
+
+.immoTitle {
+  color: white;
+  margin: 0;
+  width: 800px;
+  height: 150px;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

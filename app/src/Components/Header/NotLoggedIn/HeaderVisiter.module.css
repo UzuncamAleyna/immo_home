@@ -1,0 +1,60 @@
+.header {
+  background-color: #f3e0dc;
+  margin: 0;
+  padding: 0;
+
+  height: 70px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 40px;
+}
+
+.links {
+  display: flex;
+  justify-content: space-between;
+  gap: 100px;
+}
+
+.btnLinks {
+  display: flex;
+  justify-content: space-between;
+  gap: 50px;
+}
+
+.borderLine {
+  border: 1.5px solid #bc4639;
+  padding: 8px 15px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 600;
+  color: #5c2018;
+  text-decoration: none;
+}
+
+.linkStyle {
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 600;
+  color: #5c2018;
+  text-decoration: none;
+}
+
+.logoStyle {
+  margin-right: 30px;
+  text-decoration: none;
+  color: #5c2018;
+  font-weight: 700;
+  font-size: 20px;
+}
+
+.login {
+  text-decoration: none;
+  border: 2px solid #5c2018;
+  padding: 8px 15px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 600;
+  color: #5c2018;
+  text-decoration: none;
+}

@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "6479c78f323565ba5eb72047"
+  },
+  "surname": "Aleyna",
+  "name": "Uzuncam",
+  "role": "realtor",
+  "email": "aleyna-uzuncam@hotmail.be",
+  "password": "{\"words\":[559054940,-1029782606,1822009819,-557809988,-1904185684,-1307510402,-1606915549,-512440434],\"sigBytes\":32}",
+  "salt": "16771ed5-6d11-48ec-b3b8-525ef91e83a0",
+  "saltParam": 10
+},
+{
+  "_id": {
+    "$oid": "6479c7ab323565ba5eb72048"
+  },
+  "surname": "ally",
+  "name": "petite",
+  "role": "user",
+  "email": "ally@outlook.com",
+  "password": "{\"words\":[-2005952011,-204683759,394159426,-352121268,-1003705859,295590417,823973859,-377420942],\"sigBytes\":32}",
+  "salt": "eb759f21-6764-4889-9afd-0cac10bef8d9",
+  "saltParam": 35
+}]
